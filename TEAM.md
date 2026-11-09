@@ -139,7 +139,7 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 - `TEAM.md`: Thông tin nhóm, Thành viên, Phân công
 - `group_report.md`: mục 2.1 (dòng 10–12), 2.4, 5, 7
-- Commit: `thong tin nhom, cham diem shortlist, problem statement v0/v1` ⟨hash⟩
+- Commit: `thong tin nhom, cham diem shortlist, problem statement v0/v1` 
 
 **Điều mình học được từ phần nhóm:**
 
