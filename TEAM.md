@@ -4,7 +4,7 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm: Infinate
+- Tên nhóm: Infinite
 - Candidate problem nhóm chọn (1 câu): Nhận diện link/tin nhắn lừa đảo sử dụng AI
 - Quyết định cuối (Go / Not Yet / No-Go): Not Yet
 
