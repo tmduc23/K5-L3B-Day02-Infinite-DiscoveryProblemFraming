@@ -9,7 +9,7 @@
 - Họ tên: Trần Minh Đức
 - MSSV: 2A202603977
 - Email trường (không bắt buộc, repo có thể để public):
-- Tên nhóm: Infinate
+- Tên nhóm: Infinite
 - Link repo nhóm: ⟨dán link repo nhóm⟩
 
 ---
