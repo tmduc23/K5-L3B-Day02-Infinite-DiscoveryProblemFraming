@@ -5,7 +5,7 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm: Infinate
+- Tên nhóm: Infinite
 - Thành viên: xem `TEAM.md`
 - Candidate problem được chọn (1 câu): **Nhận diện link/tin nhắn lừa đảo.** Khi nhận link hoặc tin nhắn lạ, người dùng điện thoại phải tự phán đoán nó có phải lừa đảo không trước khi bấm, và phán đoán sai thì mất tiền hoặc thông tin cá nhân.
 - Quyết định cuối: **Not Yet** (xem mục 8.2)
